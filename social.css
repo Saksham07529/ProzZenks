@@ -1,0 +1,31 @@
+#lab_social_icon_footer {
+    padding: 40px 0;
+    background-image: url(abc.jpg);
+  }
+  
+  #lab_social_icon_footer #social-tg {
+    color: rgb(19, 149, 255);
+  }
+  #lab_social_icon_footer #social-yt {
+    color: #ff0000;
+  }
+  
+  #lab_social_icon_footer .social:hover {
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+  }
+  
+  #lab_social_icon_footer .social {
+    -webkit-transform: scale(0.8);
+    /* Browser Variations: */
+    
+    -moz-transform: scale(0.8);
+    -o-transform: scale(0.8);
+    -webkit-transition-duration: 0.5s;
+    -moz-transition-duration: 0.5s;
+    -o-transition-duration: 0.5s;
+  }
+  /*
+      Multicoloured Hover Variations
+  */
